@@ -1,6 +1,5 @@
 export enum ApiUrl {
-    // baseUrl = "https://server-budyog.onrender.com/api/user/"
-    baseUrl = "http://buyogo.ap-south-1.elasticbeanstalk.com/api/user/"
+    baseUrl = "http://localhost:8081/api/user/"
 }
 
 export enum ApiTypes {
